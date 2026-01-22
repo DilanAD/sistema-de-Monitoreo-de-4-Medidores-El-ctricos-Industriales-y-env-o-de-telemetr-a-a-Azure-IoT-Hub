@@ -1,5 +1,5 @@
 ================================================================================
-  SOLUCIÓN PRUEBA TÉCNICA - DESARROLLO II (FIRMWARE) - enerBit
+Sistema de Monitoreo de 4 Medidores Eléctricos Industriales y envío de telemetría a Azure IoT Hub
 ================================================================================
 
 DESCRIPCIÓN DEL PROYECTO
